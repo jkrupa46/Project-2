@@ -54,7 +54,7 @@ body#index p
   font-size: 100%;
 }
 
-#history-table
+table#history-table
 {
   border: 3px black;
   text-align: center;
@@ -66,7 +66,7 @@ body#index p
   margin-bottom: 50px;
 }
 
-#history-table th
+table#history-table th
 {
   border: 7px black ;
   font-family: Spectral;
@@ -75,7 +75,7 @@ body#index p
   color: black;
 }
 
-#history-table td
+table#history-table td
 {
 border: 7px black;
   font-family: Spectral;
