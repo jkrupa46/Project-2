@@ -34,5 +34,73 @@ nav ul li a
   text-decoration: none;
   /*font-weight: bold;*/
   text-transform: uppercase;
-  font-family: Spectral, sans-serif;
+  font-family: Spectral;
+}
+
+body#index
+{
+  background-color: #58A1F5;
+}
+
+h2#mancityvideo
+{
+  text-align: center;
+   max-width: 960px;
+  font-family: Spectral;
+  font-size: 100%;
+}
+
+h2#badge
+{
+  text-align: center;
+  max-width: 960px;
+  font-family: Spectral;
+  font-size: 100%;
+
+}
+
+h2#signing
+{
+  text-align: center;
+  max-width: 960px;
+  font-family: Spectral;
+  font-size: 100%;
+}
+
+h2#history
+{
+  text-align: center;
+  max-width: 960px;
+  font-family: Spectral;
+  font-size: 100%;
+}
+
+#history-table
+{
+  border: 3px black;
+  text-align: center;
+  width: 100%;
+  max-width: 960px;
+  border-collapse:collapse;
+  margin-left: 4%;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+#history-table th
+{
+  border: 7px black ;
+  font-family: Spectral;
+  font-size: 180%;
+  background-color: #02FF83;
+  color: black;
+}
+
+#history-table td
+{
+border: 7px black;
+  font-family: Spectral;
+  font-size: 140%;
+  background-color: #00904A;
+  color: black;
 }
