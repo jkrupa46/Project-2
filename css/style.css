@@ -122,6 +122,13 @@ div#resume-profile h2
   text-align: center;
   margin-bottom: -0.5em;
 }
+
+div#resume-profile ul li 
+{
+  text-align: left;
+  font-size: 140%;
+  list-style-type: none;
+}
   
 div#objective 
 {
