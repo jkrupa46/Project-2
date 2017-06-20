@@ -86,6 +86,127 @@ border: 7px black;
 
 body#resume
 {
+  background-color: #nav 
+{
+  text-align: center;
+  background-color: #081BFE;
+  position: relative;
+  top: 0;
+}
+
+nav ul 
+{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+
+nav ul li 
+{
+  float: left;
+  margin-left: 4%;
+  width: auto;
+}
+
+nav ul li a 
+{
+  display: block;
+  padding: 0.375em; 
+  font-size: 1em;
+  color: white;
+  text-decoration: none;
+  text-transform: uppercase;
+  font-family: Spectral;
+}
+
+body#index
+{
+  text-align: center;
+  background-color: #58A1F5;
+}
+
+h2#mancityvideo
+{
+  text-align: center;
+   max-width: 960px;
+  font-family: Spectral;
+  font-size: 200%;
+}
+
+h2#badge
+{
+  text-align: center;
+  max-width: 960px;
+  font-family: Spectral;
+  font-size: 200%;
+
+}
+
+h2#signing
+{
+  text-align: center;
+  max-width: 960px;
+  font-family: Spectral;
+  font-size: 200%;
+}
+
+h2#history
+{
+  text-align: center;
+  max-width: 960px;
+  font-family: Spectral;
+  font-size: 200%;
+}
+
+p#history-p
+{
+  text-align: center;
+  max-width: 960px;
+  font-family: Spectral;
+  font-size: 100%;
+}
+
+#history-table
+{
+  border: 3px black;
+  text-align: center;
+  width: 100%;
+  max-width: 960px;
+  border-collapse:collapse;
+  margin-left: 4%;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+#history-table th
+{
+  border: 7px black ;
+  font-family: Spectral;
+  font-size: 180%;
+  background-color: #02FF83;
+  color: black;
+}
+
+#history-table td
+{
+border: 7px black;
+  font-family: Spectral;
+  font-size: 140%;
+  background-color: #00904A;
+  color: black;
+}
+
+h2#records
+{
+  text-align: center;
+   max-width: 960px;
+  font-family: Spectral;
+  font-size: 100%;
+}
+
+body#resume
+{
   background-color: #58A1F5;
   text-align: center;
 }
@@ -233,4 +354,149 @@ body#games
 {
   text-align: center;
   background-color: #58A1F5;
+}
+
+div#resume-profile 
+{
+  max-width: 960px;
+  font-family: Spectral;
+  position: relative;
+  margin-left: 2%;
+}
+
+div#resume-profile h2 
+{
+  font-size: 250%;
+  text-align: center;
+  margin-bottom: -0.5em;
+}
+  
+div#objective 
+{
+  font-family: Spectral;
+  text-align: center;
+  max-width: 960px;
+  margin-left: 2%;
+}
+div#objective h2 
+{
+  font-size: 200%;
+  margin-bottom: -0.5em;
+}
+
+div#objective ul li 
+{
+  text-align: left;
+  font-size: 140%;
+  list-style-type: square;
+}
+
+div#experience 
+{
+  font-family: Spectral;
+  text-align: center;
+  max-width: 960px;
+  margin-left: 2%;
+}
+
+div#experience h2 
+{
+  font-size: 200%;
+  text-align: center;
+  margin-bottom: -0.5em;
+}
+
+div#experience ul li 
+{
+  text-align: left;
+  font-size: 140%;
+  list-style-type: square;
+}
+
+div#accomplishments
+{
+  font-family: Spectral;
+  text-align: center;
+  max-width: 960px;
+  margin-left: 2%;
+}
+
+div#accomplisments h3 
+{
+  font-size: 200%;
+  text-align: center;
+  margin-bottom: -0.5em;
+}
+
+div#accomplishments ul li 
+{
+  text-align: left;
+  font-size: 140%;
+  list-style-type: square;
+}
+
+div#qualifications 
+{
+  max-width: 960px;
+  margin-left: 2%;
+}
+
+div#qualifications h2 
+{
+  font-size: 200%;
+  text-align: center;
+  margin-bottom: -0.5em;
+}
+
+div#qualifications ul li 
+{
+  text-align: left;
+  font-size: 140%;
+  list-style-type: square;
+}
+
+div#education 
+{
+  max-width: 960px;
+  margin-left: 2%;
+}
+
+div#education h2 
+{
+  font-size: 200%;
+  text-align: center;
+  margin-bottom: -0.5em;
+}
+
+div#education ul li 
+{
+  text-align: left;
+  font-size: 140%;
+  list-style-type: square;
+}
+
+div#skills 
+{
+  max-width: 960px;
+  margin-left: 2%;
+}
+
+div#skills h2 
+{
+  font-size: 200%;
+  text-align: center;
+  margin-bottom: -0.5em;
+}
+
+div#skills ul li 
+{
+  text-align: left;
+  font-size: 140%;
+  list-style-type: square;
+}
+
+body#games
+{
+  text-align: center;
+  background-color: #4DE371;
 }
