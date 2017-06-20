@@ -1,0 +1,29 @@
+nav {
+  background-color: #081BFE;
+  position: relative;
+  top: 0;
+}
+
+nav ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+
+nav ul li {
+  float: left;
+  margin-left: 4%;
+  width: auto;
+}
+
+nav ul li a {
+  display: block;
+  padding: 0.375em; 
+  font-size: 1em;
+  color: white;
+  text-decoration: none;
+  /*font-weight: bold;*/
+  text-transform: uppercase;
+  font-family: Spectral, sans-serif;
+}
