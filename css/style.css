@@ -77,47 +77,11 @@ table#history-table th
 
 table#history-table td
 {
-border: 7px black;
+  border: 7px black;
   font-family: Spectral;
   font-size: 140%;
   background-color: #00904A;
   color: black;
-}
-
-body#resume
-{
-  background-color: #nav 
-{
-  text-align: center;
-  background-color: #081BFE;
-  position: relative;
-  top: 0;
-}
-
-nav ul 
-{
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-  overflow: hidden;
-}
-
-nav ul li 
-{
-  float: left;
-  margin-left: 4%;
-  width: auto;
-}
-
-nav ul li a 
-{
-  display: block;
-  padding: 0.375em; 
-  font-size: 1em;
-  color: white;
-  text-decoration: none;
-  text-transform: uppercase;
-  font-family: Spectral;
 }
 
 body#index
