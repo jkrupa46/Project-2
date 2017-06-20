@@ -1,16 +1,11 @@
-header
-{
-text-align: center;
-}
-
-nav 
+body#index nav 
 {
   background-color: #081BFE;
   position: relative;
   top: 0;
 }
 
-nav ul 
+body#index nav ul 
 {
   list-style-type: none;
   margin: 0;
@@ -18,27 +13,27 @@ nav ul
   overflow: hidden;
 }
 
-nav ul li 
+body#index nav ul li 
 {
   float: left;
   margin-left: 4%;
   width: auto;
 }
 
-nav ul li a 
+body#index nav ul li a 
 {
   display: block;
   padding: 0.375em; 
   font-size: 1em;
   color: white;
   text-decoration: none;
-  /*font-weight: bold;*/
   text-transform: uppercase;
   font-family: Spectral;
 }
 
 body#index
 {
+  text-align: center;
   background-color: #58A1F5;
 }
 
@@ -121,9 +116,43 @@ h2#records
   font-size: 100%;
 }
 
+body#resume nav 
+{
+  background-color: #081BFE;
+  position: relative;
+  top: 0;
+}
+
+body#resume nav ul 
+{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+
+body#resume nav ul li 
+{
+  float: left;
+  margin-left: 4%;
+  width: auto;
+}
+
+body#resume nav ul li a 
+{
+  display: block;
+  padding: 0.375em; 
+  font-size: 1em;
+  color: white;
+  text-decoration: none;
+  text-transform: uppercase;
+  font-family: Spectral;
+}
+
 body#resume
 {
- background-color: #58A1F5;
+  background-color: #58A1F5;
+  text-align: center:
 }
 
 div#resume-profile 
@@ -263,4 +292,43 @@ div#skills ul li
   text-align: left;
   font-size: 140%;
   list-style-type: square;
+}
+
+body#games nav 
+{
+  background-color: #081BFE;
+  position: relative;
+  top: 0;
+}
+
+body#games nav ul 
+{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+
+body#games nav ul li 
+{
+  float: left;
+  margin-left: 4%;
+  width: auto;
+}
+
+body#games nav ul li a 
+{
+  display: block;
+  padding: 0.375em; 
+  font-size: 1em;
+  color: white;
+  text-decoration: none;
+  text-transform: uppercase;
+  font-family: Spectral;
+}
+
+body#games
+{
+  text-align: center;
+  background-color: #58A1F5;
 }
