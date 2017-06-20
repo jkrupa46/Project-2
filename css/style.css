@@ -47,7 +47,7 @@ h2#mancityvideo
   text-align: center;
    max-width: 960px;
   font-family: Spectral;
-  font-size: 100%;
+  font-size: 200%;
 }
 
 h2#badge
@@ -55,7 +55,7 @@ h2#badge
   text-align: center;
   max-width: 960px;
   font-family: Spectral;
-  font-size: 100%;
+  font-size: 200%;
 
 }
 
@@ -64,10 +64,18 @@ h2#signing
   text-align: center;
   max-width: 960px;
   font-family: Spectral;
-  font-size: 100%;
+  font-size: 200%;
 }
 
 h2#history
+{
+  text-align: center;
+  max-width: 960px;
+  font-family: Spectral;
+  font-size: 200%;
+}
+
+p#history-p
 {
   text-align: center;
   max-width: 960px;
