@@ -161,7 +161,7 @@ div#objective ul li
 div#experience 
 {
   font-family: Spectral;
-  tex-align: center;
+  text-align: center;
   max-width: 960px;
   margin-left: 2%;
 }
@@ -183,7 +183,7 @@ div#experience ul li
 div#accomplishments
 {
   font-family: Spectral;
-  tex-align: center;
+  text-align: center;
   max-width: 960px;
   margin-left: 2%;
 }
