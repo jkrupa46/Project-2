@@ -227,6 +227,26 @@ div#education ul li
   list-style-type: none;
 }
 
+div#activities 
+{
+  max-width: 960px;
+  margin-left: 2%;
+}
+
+div#activities h2 
+{
+  font-size: 200%;
+  text-align: center;
+  margin-bottom: -0.5em;
+}
+
+div#activities ul li 
+{
+  text-align: left;
+  font-size: 140%;
+  list-style-type: none;
+}
+
 div#skills 
 {
   max-width: 960px;
