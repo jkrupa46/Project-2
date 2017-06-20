@@ -1,5 +1,6 @@
 nav 
 {
+  text-align: center;
   background-color: #081BFE;
   position: relative;
   top: 0;
@@ -119,7 +120,7 @@ h2#records
 body#resume
 {
   background-color: #58A1F5;
-  text-align: center:
+  text-align: center;
 }
 
 div#resume-profile 
