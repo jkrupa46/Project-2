@@ -1,23 +1,32 @@
-nav {
+header
+{
+text-align: center;
+}
+
+nav 
+{
   background-color: #081BFE;
   position: relative;
   top: 0;
 }
 
-nav ul {
+nav ul 
+{
   list-style-type: none;
   margin: 0;
   padding: 0;
   overflow: hidden;
 }
 
-nav ul li {
+nav ul li 
+{
   float: left;
   margin-left: 4%;
   width: auto;
 }
 
-nav ul li a {
+nav ul li a 
+{
   display: block;
   padding: 0.375em; 
   font-size: 1em;
