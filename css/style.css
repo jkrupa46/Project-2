@@ -84,12 +84,6 @@ table#history-table td
   color: black;
 }
 
-body#index
-{
-  text-align: center;
-  background-color: #58A1F5;
-}
-
 h2#mancityvideo
 {
   text-align: center;
@@ -104,7 +98,6 @@ h2#badge
   max-width: 960px;
   font-family: Spectral;
   font-size: 200%;
-
 }
 
 h2#signing
@@ -131,7 +124,7 @@ p#history-p
   font-size: 100%;
 }
 
-#history-table
+table#history-table
 {
   border: 3px black;
   text-align: center;
@@ -143,7 +136,7 @@ p#history-p
   margin-bottom: 50px;
 }
 
-#history-table th
+table#history-table th
 {
   border: 7px black ;
   font-family: Spectral;
@@ -152,9 +145,9 @@ p#history-p
   color: black;
 }
 
-#history-table td
+table#history-table td
 {
-border: 7px black;
+  border: 7px black;
   font-family: Spectral;
   font-size: 140%;
   background-color: #00904A;
@@ -312,12 +305,6 @@ div#skills ul li
   text-align: left;
   font-size: 140%;
   list-style-type: square;
-}
-
-body#games
-{
-  text-align: center;
-  background-color: #58A1F5;
 }
 
 div#resume-profile 
