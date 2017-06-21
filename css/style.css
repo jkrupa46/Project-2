@@ -40,6 +40,15 @@ body#index
   color: black;
 }
 
+body#index h1
+{
+  text-align: center;
+   max-width: 960px;
+  font-family: Spectral;
+  font-size: 200%;
+  color: blue;
+}
+
 body#index h2
 {
   text-align: center;
@@ -86,7 +95,6 @@ table td
   color: black;
 }
 
-
 div#records h2
 {
   text-align: center;
@@ -110,6 +118,15 @@ body#resume
   text-align: center;
   font-family: Spectral;
   color: black;
+}
+
+body#resume h1
+{
+  text-align: center;
+   max-width: 960px;
+  font-family: Spectral;
+  font-size: 200%;
+  color: blue;
 }
 
 div#resume-profile 
