@@ -152,6 +152,13 @@ div#objective ul li
   list-style-type: none;
 }
 
+div#objective ul li ul li 
+{
+  text-align: left;
+  font-size: 140%;
+  list-style-type: none;
+}
+
 div#experience 
 {
   font-family: Spectral;
@@ -171,6 +178,13 @@ div#experience ul li
 {
   text-align: left;
   font-size: 140%;
+  list-style-type: none;
+}
+
+div#experience ul li ul li
+{
+  text-align: left;
+  font-size: 100%;
   list-style-type: none;
 }
 
@@ -236,6 +250,13 @@ div#education ul li
   list-style-type: none;
 }
 
+div#education ul li ul li
+{
+  text-align: left;
+  font-size: 100%;
+  list-style-type: none;
+}
+
 div#activities 
 {
   max-width: 960px;
@@ -253,6 +274,13 @@ div#activities ul li
 {
   text-align: left;
   font-size: 140%;
+  list-style-type: none;
+}
+
+div#activities ul li ul li 
+{
+  text-align: left;
+  font-size: 100%;
   list-style-type: none;
 }
 
