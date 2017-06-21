@@ -40,21 +40,13 @@ body#index
   color: black;
 }
 
-body#index h1
-{
-  text-align: center;
-   max-width: 960px;
-  font-family: Spectral;
-  font-size: 200%;
-  color: blue;
-}
-
 body#index h2
 {
   text-align: center;
    max-width: 960px;
   font-family: Spectral;
   font-size: 200%;
+  color: black;
 }
 
 body#index p
@@ -63,6 +55,7 @@ body#index p
   max-width: 960px;
   font-family: Spectral;
   font-size: 100%;
+  color: black;
 }
 
 body#index img.left 
@@ -124,15 +117,6 @@ body#resume
   text-align: center;
   font-family: Spectral;
   color: black;
-}
-
-body#resume h1
-{
-  text-align: center;
-   max-width: 960px;
-  font-family: Spectral;
-  font-size: 200%;
-  color: blue;
 }
 
 div#resume-profile 
@@ -327,7 +311,7 @@ body#games
   text-align: center;
   background-color: #58A1F5;
   font-family: Bitter;
-  color: blue;
+  color: Black;
 }
 
 body#games h2
