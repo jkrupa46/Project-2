@@ -152,13 +152,6 @@ div#objective ul li
   list-style-type: none;
 }
 
-div#objective ul li ul li 
-{
-  text-align: left;
-  font-size: 140%;
-  list-style-type: none;
-}
-
 div#experience 
 {
   font-family: Spectral;
