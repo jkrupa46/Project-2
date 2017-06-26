@@ -112,6 +112,13 @@ nav#video-games ul li a
   font-family: Spectral;
 }
 
+img 
+{
+  width: 100%;
+  height: auto;
+  float: center;
+}
+
 body#index
 {
   text-align: center;
