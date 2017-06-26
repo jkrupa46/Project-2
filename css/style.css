@@ -9,6 +9,7 @@ nav#Man-City
 nav#Man-City ul 
 {
   text-align: center;
+  display: inline-block;
   list-style-type: none;
   margin: 0;
   padding: 0;
@@ -46,6 +47,7 @@ nav#resume
 nav#resume ul 
 {
   text-align: center;
+  display: inline-block;
   list-style-type: none;
   margin: 0;
   padding: 0;
@@ -83,6 +85,7 @@ nav#video-games
 nav#video-games ul 
 {
   text-align: center;
+  display: inline-block;
   list-style-type: none;
   margin: 0;
   padding: 0;
