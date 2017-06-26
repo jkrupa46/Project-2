@@ -1,4 +1,4 @@
-nav 
+nav#index
 {
   text-align: center;
   background-color: #081BFE;
@@ -6,23 +6,100 @@ nav
   top: 0;
 }
 
-nav ul 
+nav#index ul 
 {
+  text-align: center;
   list-style-type: none;
   margin: 0;
   padding: 0;
   overflow: hidden;
 }
 
-nav ul li 
+nav#index ul li 
 {
+  text-align: center;
   float: left;
   margin-left: 4%;
   width: auto;
 }
 
-nav ul li a 
+nav#index ul li a 
 {
+  text-align: center;
+  display: block;
+  padding: 0.375em; 
+  font-size: 1em;
+  color: white;
+  text-decoration: none;
+  text-transform: uppercase;
+  font-family: Spectral;
+}
+
+nav#resume
+{
+  text-align: center;
+  background-color: #081BFE;
+  position: relative;
+  top: 0;
+}
+
+nav#resume ul 
+{
+  text-align: center;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+
+nav#resume ul li 
+{
+  text-align: center;
+  float: left;
+  margin-left: 4%;
+  width: auto;
+}
+
+nav#resume ul li a 
+{
+  text-align: center;
+  display: block;
+  padding: 0.375em; 
+  font-size: 1em;
+  color: white;
+  text-decoration: none;
+  text-transform: uppercase;
+  font-family: Spectral;
+}
+
+nav#video-games
+{
+  text-align: center;
+  background-color: #081BFE;
+  position: relative;
+  top: 0;
+}
+
+nav#video-games ul 
+{
+  text-align: center;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+
+nav#video-games ul li 
+{
+  text-align: center;
+  float: left;
+  margin-left: 4%;
+  width: auto;
+}
+
+nav#video-games ul li a 
+{
+  text-align: center;
   display: block;
   padding: 0.375em; 
   font-size: 1em;
@@ -56,12 +133,6 @@ body#index p
   font-family: Spectral;
   font-size: 100%;
   color: black;
-}
-
-body#index img.left 
-{
-    display: block;
-    margin: 0 auto;
 }
 
 table
