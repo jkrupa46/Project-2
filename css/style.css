@@ -221,14 +221,14 @@ div#resume-profile
   max-width: 960px;
   font-family: Spectral;
   position: relative;
-  margin-left: 2%;
+  margin: auto;
 }
 
 div#resume-profile h2 
 {
   font-size: 250%;
   text-align: center;
-  margin-bottom: -0.5em;
+  margin: auto;
 }
 
 div#resume-profile ul li 
@@ -243,14 +243,14 @@ div#objective
   font-family: Spectral;
   text-align: center;
   max-width: 960px;
-  margin-left: 2%;
+  margin: auto;
 }
 
 div#objective h2 
 {
   text-align: center;
   font-size: 200%;
-  margin-bottom: -0.5em;
+  margin: auto;
 }
 
 div#objective ul li 
@@ -265,14 +265,14 @@ div#experience
   font-family: Spectral;
   text-align: center;
   max-width: 960px;
-  margin-left: 2%;
+  margin: auto;
 }
 
 div#experience h2 
 {
   font-size: 200%;
   text-align: center;
-  margin-bottom: -0.5em;
+  margin: auto;
 }
 
 div#experience ul li 
@@ -294,14 +294,14 @@ div#accomplishments
   font-family: Spectral;
   text-align: center;
   max-width: 960px;
-  margin-left: 2%;
+  margin: auto;
 }
 
 div#accomplisments h3 
 {
   font-size: 200%;
   text-align: center;
-  margin-bottom: -0.5em;
+  margin: auto;
 }
 
 div#accomplishments ul li 
@@ -315,14 +315,14 @@ div#qualifications
 {
   text-align: center;
   max-width: 960px;
-  margin-left: 2%;
+  margin: auto;
 }
 
 div#qualifications h2 
 {
   font-size: 200%;
   text-align: center;
-  margin-bottom: -0.5em;
+  margin: auto;
 }
 
 div#qualifications ul li 
@@ -336,14 +336,14 @@ div#education
 {
   text-align: center;
   max-width: 960px;
-  margin-left: 2%;
+  margin: auto;
 }
 
 div#education h2 
 {
   font-size: 200%;
   text-align: center;
-  margin-bottom: -0.5em;
+  margin: auto;
 }
 
 div#education ul li 
@@ -364,14 +364,14 @@ div#activities
 {
   text-align: center;
   max-width: 960px;
-  margin-left: 2%;
+  margin: auto;
 }
 
 div#activities h2 
 {
   font-size: 200%;
   text-align: center;
-  margin-bottom: -0.5em;
+  margin: auto;
 }
 
 div#activities ul li 
@@ -392,14 +392,14 @@ div#skills
 {
   text-align: center;
   max-width: 960px;
-  margin-left: 2%;
+  margin: auto;
 }
 
 div#skills h2 
 {
   font-size: 200%;
   text-align: center;
-  margin-bottom: -0.5em;
+  margin: auto;
 }
 
 div#skills ul li 
